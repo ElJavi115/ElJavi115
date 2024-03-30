@@ -1,8 +1,8 @@
-### Hi there 👋
+# 🖥System engineering student👷‍♂️
+## Learning C# (.NET), Java, Python and JavaScript
 
-##System engineering student
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElJavi115&l&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElJavi115&theme=algolia&show_icons=true)
 
 <!--
 **ElJavi115/ElJavi115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
